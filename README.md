@@ -5,3 +5,5 @@ and place the bot secret token in .env
 `.env`
 like so
 `TOKEN=your-token`
+
+Made in Python 3.9
